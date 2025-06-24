@@ -1,0 +1,12 @@
+streamlit==1.35.0
+streamlit-chat==0.1.1
+langchain==0.1.20
+langchain-community==0.0.35
+langchain-core==0.1.46
+langchain-text-splitters==0.0.1
+PyMuPDF==1.23.26
+chromadb==0.4.24
+sentence-transformers==2.2.2
+torch==2.1.2
+tqdm==4.66.2
+together==0.2.10
